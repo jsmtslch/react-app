@@ -1,0 +1,17 @@
+{
+  "name": "react-sample-app",
+  "version": "1.0.0",
+  "description": "This is a sample React App",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "author": "Jasmeet Singh",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.11.1"
+  }
+}
